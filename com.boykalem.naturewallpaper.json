@@ -1,0 +1,54 @@
+{
+
+  "redirect" : [ {
+
+
+	"json_popup_wait" : "Server Ready . . . .",
+
+
+	"mode_no_ads" : true,
+	"mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
+
+	"pengaturan_iklan" : "1",
+    "inter_count" : 5,
+
+    "enable_strap" : true,
+    "enable_strap_Splah" : true,
+    "ads_on_exit_dialog" : true,
+
+
+    "exit_popup_dialog" : "So that we are more enthusiastic about developing this application \ n \ n Please help us with a 5 star rating yes :)",
+    "rate_button" : "Rate 5 Stars",
+    "later_button" : "Rate Later",
+    "enable_Share_button" : true,
+    "Share_TXT" : "Supperr APPS Download Now",
+    "more_button" : "Share Via WhatsApp",
+    "url_more_apps" : "https:// jika share button TRUE maka tombol MORE berubah SHARE ",
+
+    "startapp" : "YOUR_APP_ID",
+
+	"appodeal_app_id" : "YOUR_APPODEAL_APP_KEY",
+
+  
+    "bannerid" : "ca-app-pub-5022256682405885/8940958931",
+    "interid" : "ca-app-pub-5022256682405885/9815056905",
+    "nativeid" : "ca-app-pub-5022256682405885/5752329443",
+
+
+	"fan_banner" : "YOUR_PLACEMENT_ID",
+    "fan_inter" : "YOUR_PLACEMENT_ID",
+    "fan_native" : "YOUR_PLACEMENT_ID",
+
+
+    "hpk_alien" : "kuota data 30gb",
+    "hpkadmob1" : "Kuota Data",
+    "hpkadmob2" : "Bank Jenius",
+    "hpkadmob3" : "Simpati",
+    "hpkadmob4" : "Telkomsel",
+    "hpkadmob5" : "Donasi"
+	
+
+  } ]
+
+}
+
