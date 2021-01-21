@@ -6,8 +6,8 @@
 	"json_popup_wait" : "Server Ready . . . .",
 
 
-	"mode_no_ads" : true,
-	"mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
+	"mode_no_ads" : false,
+	"mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
 
 	"pengaturan_iklan" : "1",
     "inter_count" : 5,
@@ -17,7 +17,7 @@
     "ads_on_exit_dialog" : true,
 
 
-    "exit_popup_dialog" : "Agar Kami lebih semangat mengembangkan Aplikasi ini \n\n Bantu kami dengan rating bingtang 5 ya :)",
+    "exit_popup_dialog" : "So that we are more enthusiastic about developing this application \ n \ n Please help us with a 5 star rating yes :)",
     "rate_button" : "Rate 5 Stars",
     "later_button" : "Rate Later",
     "enable_Share_button" : true,
@@ -30,9 +30,9 @@
 	"appodeal_app_id" : "YOUR_APPODEAL_APP_KEY",
 
   
-    "bannerid" : "ca-app-pub ADMOB",
-    "interid" : "ca-app-pub ADMOB",
-    "nativeid" : "ca-app-pub ADMOB",
+    "bannerid" : "ca-app-pub-5022256682405885/9164970585",
+    "interid" : "ca-app-pub-5022256682405885/6946001353",
+    "nativeid" : "ca-app-pub-5022256682405885/3912643905",
 
 
 	"fan_banner" : "YOUR_PLACEMENT_ID",
